@@ -3,6 +3,6 @@
   "vnp_HashSecret":"NBCAXHSVJWMOLULOTYEJEVAYXNZGIPFA",
   "vnp_Url":"https://sandbox.vnpayment.vn/paymentv2/vpcpay.html",
   "vnp_Api":"https://sandbox.vnpayment.vn/merchant_webapi/api/transaction",
-  "vnp_ReturnUrl": "https://vnsim.onrender.com/confirm-payment",
-  "vnp_ReturnAppUrl": "https://vnsim.onrender.com/confirm-app-payment"
+  "vnp_ReturnUrl": "https://6596c96f8f29e11224024466--fascinating-peony-7f65e6.netlify.app/confirm-payment",
+  "vnp_ReturnAppUrl": "https://6596c96f8f29e11224024466--fascinating-peony-7f65e6.netlify.app/confirm-app-payment"
 }
